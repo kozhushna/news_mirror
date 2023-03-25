@@ -1,0 +1,1 @@
+{"mappings":"8oBAAO,MAAMA,EAAgBC,IACzBC,SAASC,KAAKC,UAAUC,OAAO,OAAO,C","sources":["src/js/togler.js"],"sourcesContent":["export const onToglerClick = e => {\n    document.body.classList.toggle('dark');\n};\n"],"names":["$6cf0842af0f2ed22$export$9004980c176cc16d","e","document","body","classList","toggle"],"version":3,"file":"favorite.3c7a5ada.js.map"}
