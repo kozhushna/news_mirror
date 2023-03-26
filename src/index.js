@@ -19,3 +19,5 @@ import * as weatherBanner from './js/weather-banner';
 
 refs.togler.addEventListener('click', onToglerClick);
 refs.tabs.addEventListener('click', onTabsClick);
+
+import * as pager from './js/pager';
