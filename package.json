@@ -2,14 +2,14 @@
   "name": "news_app",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://TikhonenkoVV.github.io/news_app",
+  "homepage": "https://kozhushna.github.io/news_mirror",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /news_app/"
+    "build": "parcel build src/*.html --public-url /news_mirror/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TikhonenkoVV/news_app.git"
+    "url": "git+https://github.com/kozhushna/news_mirror.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
